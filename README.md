@@ -23,6 +23,8 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 
 [Nayantara Njondimackal](https://github.com/lnlnlnl)
 
+[Adam Wieczorek](https://github.com/skewbmaster)
+
 ### Data Collection team
 [Ethan Noulton](https://github.com/ENoulton)
 
