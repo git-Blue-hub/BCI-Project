@@ -15,13 +15,14 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 ### Machine Learning team
 [Shohail Ismail](https://github.com/shohail-ismail)
 
-[Lucy Dalzell](https://github.com/luna-dzx)
-
-
 
 ### Signal Processing team
 [Thorpe Thorpe](https://github.com/ImJustChaotic)
+
+[Lucy Dalzell](https://github.com/luna-dzx)
+
 [Rowan Clarke](https://github.com/RowanC-02)
+
 [Nayantara Njondimackal](https://github.com/lnlnlnl)
 
 [Adam Wieczorek](https://github.com/skewbmaster)
