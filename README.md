@@ -30,8 +30,10 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 [Lucy Dalzell](https://github.com/luna-dzx)
 
 
+
 ### Data Collection team
 [Ethan Noulton](https://github.com/ENoulton)
+[Khadija Manga](https://github.com/khadija-am)
 
 # Core Features
 ## Machine Learning team
